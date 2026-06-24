@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>软件测试</title>
+      <link href="/2026/06/24/%E8%BD%AF%E6%B5%8B%E7%AE%80%E4%BB%8B/"/>
+      <url>/2026/06/24/%E8%BD%AF%E6%B5%8B%E7%AE%80%E4%BB%8B/</url>
+      
+        <content type="html"><![CDATA[<h2 id="软测定义"><a href="#软测定义" class="headerlink" title="软测定义"></a>软测定义</h2><ol><li><p>软件测试是指使用人工或自动化的手段来运行或测试某个系统的过程。其目的在与检验系统能否满足规定需求或理清预期结果与实际结果间的差别。</p></li><li><p>软件测试是为了尽快、尽早地发现在软件产品中所存在的各种软件缺陷而展开的贯穿整个软件开发生命周期、对软件产品（包括阶段性产品）进行验证和确认的活动过程。</p></li></ol><h2 id="软测历史"><a href="#软测历史" class="headerlink" title="软测历史"></a>软测历史</h2><ol><li>混沌初开：硬件阴影下的“调试时代”（1950年代前）</li></ol><blockquote><p>1947年哈佛MarkII计算机发现史上第一只“Bug”——真实的飞蛾（由GraceHopper记录），这成为“调试”概念的起源隐喻。</p></blockquote><ol start="2"><li>破茧成蝶：测试理论的奠基时代（1970-1980年代）</li></ol><blockquote><p>1972年比尔·赫策尔（BillHetzel）发起首届软件测试国际会议，提出软件测试的概念。</p><p>1973年赫策尔提出里程碑定义：<em>“测试是验证程序满足需求的过程”。</em></p><p>方法论也是在这段时间诞生：边界值分析、判定表驱动、正交实验法。</p><p><strong>三大工具（工具革命</strong>）：</p><p>1978年首个自动化测试工具Capture&#x2F;Playback诞生</p><p>1983年TerryCoatta开发TET（首个商用测试执行框架）</p><p>1987年MercuryInteractive成立（LoadRunner前身）</p></blockquote><ol start="3"><li>独立宣言：工程化进程的加速期（1990年代）</li></ol><blockquote><p><strong>技术突破</strong></p><p>测试分层模型成熟：单元测试（KentBeckxUnit框架）→集成测试→系统测试</p><p>1998年敏捷宣言催生探索性测试（CemKaner提出）</p><p>性能测试工具爆发：LoadRunner（1993）、JMeter（1998）</p><p><strong>组织变革</strong></p><p>IBM成立首个企业级测试中心（1995）</p><p>TMM（测试能力成熟度模型）成为企业能力评估标准</p><p>“测试左移”理念萌芽：需求评审纳入测试活动</p></blockquote><ol start="4"><li>中国赛道：后发者的跃迁之路（2000年后）</li></ol><blockquote><p><strong>技术本土化创新</strong></p><p>接口测试：HttpRunner（2018）成为GitHub万星项目</p><p>云测试平台：腾讯WeTest、阿里云效支撑亿级并发验证</p><p>混沌工程：蚂蚁集团“ChaosBlade”开源故障注入工具</p></blockquote><ol start="5"><li>智能纪元：AI重构测试边界（2010年代至今）</li></ol><blockquote><p>测试生成：Testim.io,Appvance通过AI自动生成测试用例</p><p>视觉验证：Applitools,SikuliX图像识别界面元素异常</p><p>智能定位：DeepDebug,Stacktrace故障根因分析准确率提升70%</p><p>预测性测试：GoogleCrashlytics基于用户行为预测崩溃场景</p></blockquote><h2 id="软测分类"><a href="#软测分类" class="headerlink" title="软测分类"></a>软测分类</h2><ol><li><p>按阶段划分</p><ol><li><p>单元测试</p></li><li><p>集成测试</p></li><li><p>系统测试</p></li><li><p>验收测试</p></li></ol></li><li><p>按功能划分</p><ol><li><p>功能测试</p></li><li><p>性能测试</p></li><li><p>安全测试</p></li><li><p>兼容性测试</p></li><li><p>UI&#x2F;UX测试</p></li></ol></li><li><p>按执行方式划分</p><ol><li><p>黑盒测试</p></li><li><p>白盒测试</p></li><li><p>灰盒测试</p></li><li><p>自动化测试</p></li></ol></li></ol>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 软件测试 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="/2026/06/23/hello-world/"/>
       <url>/2026/06/23/hello-world/</url>
